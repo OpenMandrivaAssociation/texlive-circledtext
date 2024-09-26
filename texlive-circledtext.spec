@@ -1,6 +1,6 @@
 Name:		texlive-circledtext
-Version:	63166
-Release:	2
+Version:	72238
+Release:	1
 Summary:	Create circled text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/circledtext
